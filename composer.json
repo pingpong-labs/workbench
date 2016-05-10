@@ -1,5 +1,5 @@
 {
-    "name": "pingpong/workbench",
+    "name": "virtualstep/workbench",
     "description": "Laravel 5 Workbench.",
     "license": "MIT",
     "authors": [
@@ -10,6 +10,10 @@
         {
             "name": "Pingpong Labs",
             "email": "pingpong.labs@gmail.com"
+        },
+        {
+            "name": "VirtualStep",
+            "email": "office@virtualstep-webentwicklung.de"
         }
     ],
     "require": {
